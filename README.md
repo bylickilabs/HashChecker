@@ -1,3 +1,6 @@
+|[![VirusTotal](https://img.shields.io/badge/VirusTotal-Scan-blue?logo=virustotal&logoColor=white)](https://www.virustotal.com/gui/url/b8cfc134d1a4794d62dd8fb84df888f229e5c9b3780a93da545bf62542dc4714?nocache=1)|
+|---|
+
 # HashChecker Win
 
 **HashChecker Win** ist ein kompaktes, benutzerfreundliches Windows-Tool zur schnellen Integritätsprüfung von Dateien per Hashwert.
