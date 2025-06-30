@@ -1,0 +1,15 @@
+C:\Users\bylic\Desktop\HashCheckerWin\obj\Release\net6.0-windows\HashCheckerWin.csproj.AssemblyReference.cache
+C:\Users\bylic\Desktop\HashCheckerWin\obj\Release\net6.0-windows\HashCheckerWin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bylic\Desktop\HashCheckerWin\obj\Release\net6.0-windows\HashCheckerWin.AssemblyInfoInputs.cache
+C:\Users\bylic\Desktop\HashCheckerWin\obj\Release\net6.0-windows\HashCheckerWin.AssemblyInfo.cs
+C:\Users\bylic\Desktop\HashCheckerWin\obj\Release\net6.0-windows\HashCheckerWin.csproj.CoreCompileInputs.cache
+C:\Users\bylic\Desktop\HashCheckerWin\bin\Release\net6.0-windows\HashCheckerWin.exe
+C:\Users\bylic\Desktop\HashCheckerWin\bin\Release\net6.0-windows\HashCheckerWin.deps.json
+C:\Users\bylic\Desktop\HashCheckerWin\bin\Release\net6.0-windows\HashCheckerWin.runtimeconfig.json
+C:\Users\bylic\Desktop\HashCheckerWin\bin\Release\net6.0-windows\HashCheckerWin.dll
+C:\Users\bylic\Desktop\HashCheckerWin\bin\Release\net6.0-windows\HashCheckerWin.pdb
+C:\Users\bylic\Desktop\HashCheckerWin\obj\Release\net6.0-windows\HashCheckerWin.dll
+C:\Users\bylic\Desktop\HashCheckerWin\obj\Release\net6.0-windows\refint\HashCheckerWin.dll
+C:\Users\bylic\Desktop\HashCheckerWin\obj\Release\net6.0-windows\HashCheckerWin.pdb
+C:\Users\bylic\Desktop\HashCheckerWin\obj\Release\net6.0-windows\HashCheckerWin.genruntimeconfig.cache
+C:\Users\bylic\Desktop\HashCheckerWin\obj\Release\net6.0-windows\ref\HashCheckerWin.dll
