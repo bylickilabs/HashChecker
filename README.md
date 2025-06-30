@@ -2,6 +2,10 @@
 
 **HashChecker Win** ist ein kompaktes, benutzerfreundliches Windows-Tool zur schnellen Integritätsprüfung von Dateien per Hashwert.
 
+|![image](https://github.com/user-attachments/assets/57dc96e2-ab4e-436f-99e6-bd7824b8f87e)|
+|---|
+
+
 ---
 
 ## 🛡️ Funktionen
